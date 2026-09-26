@@ -6,16 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (3)
+- [binary search](#binary-search) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -26,6 +29,12 @@
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 
 ### data structures
 
@@ -44,6 +53,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 
 ---
 
