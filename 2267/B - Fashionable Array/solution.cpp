@@ -22,7 +22,7 @@ int main() {
         }
  
         vector<int> ans;
-        ans.reserve(n);
+      
  
         for (int i= 1; i<= maxi; i++) {
             for (int j = 100; j >= 1; j--) {
