@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 11 |
+| 10 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (3)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
@@ -38,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 
 ### brute force
@@ -74,6 +76,12 @@
 |---|---------|------------|----------|
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
 | 1526C2 | [Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1526/C2%20-%20Potions%20(Hard%20Version)/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 
 ### math
 
