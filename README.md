@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 12 |
+| 12 | 12 |
 
 ---
 
@@ -17,13 +17,13 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
-- [dp](#dp) (1)
-- [greedy](#greedy) (2)
+- [dp](#dp) (2)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
-- [math](#math) (3)
-- [sortings](#sortings) (1)
+- [math](#math) (4)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -69,12 +69,15 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
+| 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1251C | [Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1251/C%20-%20Minimize%20The%20Integer/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
+| 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1526C2 | [Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1526/C2%20-%20Potions%20(Hard%20Version)/solution.cpp) |
 
 ### implementation
@@ -89,6 +92,7 @@
 |---|---------|------------|----------|
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
+| 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 
 ### sortings
@@ -96,6 +100,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
+| 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 
 ### strings
 
@@ -108,6 +113,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
+| 1251C | [Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1251/C%20-%20Minimize%20The%20Integer/solution.cpp) |
 
 ---
 
