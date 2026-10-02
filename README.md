@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 13 |
+| 16 | 13 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (2)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (2)
-- [math](#math) (7)
-- [number theory](#number-theory) (1)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (3)
+- [math](#math) (8)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (2)
@@ -81,6 +81,7 @@
 |---|---------|------------|----------|
 | 1251C | [Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1251/C%20-%20Minimize%20The%20Integer/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1526C2 | [Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1526/C2%20-%20Potions%20(Hard%20Version)/solution.cpp) |
@@ -91,6 +92,7 @@
 |---|---------|------------|----------|
 | 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 
 ### math
 
@@ -99,6 +101,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
@@ -108,6 +111,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 
 ### sortings
