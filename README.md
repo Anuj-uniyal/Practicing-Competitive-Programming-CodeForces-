@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 15 |
+| 22 | 15 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (12)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (2)
@@ -110,6 +110,7 @@
 | 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 1209A | [Paint the Numbers](https://codeforces.com/contest/1209/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1209/A%20-%20Paint%20the%20Numbers/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 
 ### math
