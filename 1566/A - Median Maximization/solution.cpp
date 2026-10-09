@@ -6,6 +6,6 @@ int main(){
     while(t--){
         long long n,s;
         cin>>n>>s;
-        cout<<(s/((n+2)/2))<<endl;
+        cout<<s/((n+2)/2)<<endl;
     }
 }
