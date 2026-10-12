@@ -17,13 +17,8 @@ int main(){
         }
         cout<<a<<endl;
         for(int i=0;i<x;++i){
-            if(n[i]=='0'){
-                p--;
-                continue;
-            }
-            else{
-                cout<<(n[i]-'0')*pow(10,p-1)<<" ";
-                p--;
+            if(n[i]!='0'){
+               cout<<(n[i]-'0')*pow(10,x-1-i)<<" ";
             }
         }
         cout<<endl;
