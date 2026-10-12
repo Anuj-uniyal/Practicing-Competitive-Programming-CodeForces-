@@ -12,47 +12,22 @@ int main(){
         v[i].second=i;
     }
     sort(v.begin(),v.end());
-for(int i=0;i<n*m;i+=m){
-            int end=i+m;
-            int j=i;
- 
-            while(j<end){
-                int k=j;
- 
-                while(k<end && v[k].first==v[j].first){
-                    k++;
-                }
- 
-                reverse(v.begin()+j,v.begin()+k);
-                j=k;
-            }
-        }
- 
-        vector<int>seat(n*m);
- 
-        for(int i=0;i<n*m;++i){
-            seat[v[i].second]=i;
-        }
- 
-        vector<bool>occ(n*m,false);
-        long long inc=0;
- 
-        
- 
-    for(int i=0;i<n*m;++i){
-            int pos=seat[i];
-            int start=(pos/m)*m;
- 
-            for(int j=start;j<pos;++j){
-                if(occ[j]){
+    long long inc=0;
+    for(int i=0;i<n*m;i+=m){
+        int end=i+m;
+        sort(v.begin()+i, v.begin()+end, [](pair<int,int> a, pair<int,int> b) {
+         return a.second < b.second;
+        });
+        for(int j=end-1;j>=i;--j){
+            for(int k=i;k<j;++k){
+                if(v[k].first<v[j].first){
                     inc++;
                 }
             }
- 
-            occ[pos]=true;
         }
- 
-        cout<<inc<<endl;
+        
+    }
+    cout<<inc<<endl;
     }
     
  
