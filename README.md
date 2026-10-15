@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 16 |
+| 45 | 16 |
 
 ---
 
@@ -15,18 +15,18 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (4)
 - [games](#games) (1)
 - [greedy](#greedy) (21)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (11)
 - [math](#math) (21)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (6)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -67,6 +67,7 @@
 |---|---------|------------|----------|
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
 | 550B | [Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/550/B%20-%20Preparing%20Olympiad/solution.cpp) |
+| 1244B | [Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1244/B%20-%20Rooms%20and%20Staircases/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
@@ -147,8 +148,10 @@
 |---|---------|------------|----------|
 | 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
+| 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
 | 1139B | [Chocolates](https://codeforces.com/contest/1139/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1139/B%20-%20Chocolates/solution.cpp) |
 | 1209A | [Paint the Numbers](https://codeforces.com/contest/1209/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1209/A%20-%20Paint%20the%20Numbers/solution.cpp) |
+| 1244B | [Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1244/B%20-%20Rooms%20and%20Staircases/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
@@ -208,6 +211,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/43/A%20-%20Football/solution.cpp) |
+| 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 
