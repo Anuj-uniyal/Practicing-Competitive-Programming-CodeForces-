@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 16 |
+| 53 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (6)
@@ -37,6 +37,7 @@
 |---|---------|------------|----------|
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 | 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
