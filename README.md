@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 16 |
+| 59 | 16 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [dp](#dp) (5)
 - [games](#games) (2)
 - [greedy](#greedy) (25)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (25)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -177,6 +177,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 1566D2 | [Seating Arrangements (hard version) ](https://codeforces.com/contest/1566/problem/D2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/D2%20-%20Seating%20Arrangements%20(hard%20version)%20/solution.cpp) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.cpp) |
 
@@ -250,6 +251,7 @@
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 | 1251C | [Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1251/C%20-%20Minimize%20The%20Integer/solution.cpp) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 1566D2 | [Seating Arrangements (hard version) ](https://codeforces.com/contest/1566/problem/D2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/D2%20-%20Seating%20Arrangements%20(hard%20version)%20/solution.cpp) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1968/B%20-%20Prefiquence/solution.cpp) |
 
