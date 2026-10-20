@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 16 |
+| 58 | 16 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (5)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [games](#games) (2)
 - [greedy](#greedy) (25)
 - [implementation](#implementation) (14)
@@ -72,6 +72,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 | 550B | [Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/550/B%20-%20Preparing%20Olympiad/solution.cpp) |
 | 1244B | [Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1244/B%20-%20Rooms%20and%20Staircases/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
@@ -117,6 +118,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.cpp) |
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
