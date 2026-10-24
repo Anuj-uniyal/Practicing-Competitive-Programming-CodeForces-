@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 18 |
+| 64 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (8)
@@ -44,6 +44,7 @@
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 | 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
+| 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 
 ### binary search
 
