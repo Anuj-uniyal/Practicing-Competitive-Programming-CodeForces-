@@ -6,22 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 18 |
+| 68 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (5)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (5)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (26)
 - [implementation](#implementation) (17)
 - [math](#math) (28)
@@ -29,6 +31,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (4)
+- [trees](#trees) (2)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -45,6 +48,7 @@
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 | 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
+| 2278E | [Swap and Negate](https://codeforces.com/contest/2278/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2278/E%20-%20Swap%20and%20Negate/solution.cpp) |
 
 ### binary search
 
@@ -120,6 +124,13 @@
 | 1566D2 | [Seating Arrangements (hard version) ](https://codeforces.com/contest/1566/problem/D2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/D2%20-%20Seating%20Arrangements%20(hard%20version)%20/solution.cpp) |
 | 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 115A | [Party](https://codeforces.com/contest/115/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/115/A%20-%20Party/solution.cpp) |
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -142,6 +153,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 115A | [Party](https://codeforces.com/contest/115/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/115/A%20-%20Party/solution.cpp) |
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 
 ### greedy
 
@@ -269,6 +287,13 @@
 | 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
 | 1368B | [Codeforces Subsequences](https://codeforces.com/contest/1368/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1368/B%20-%20Codeforces%20Subsequences/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 115A | [Party](https://codeforces.com/contest/115/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/115/A%20-%20Party/solution.cpp) |
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 
 ### two pointers
 
