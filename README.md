@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 21 |
+| 69 | 21 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (5)
+- [dfs and similar](#dfs-and-similar) (3)
+- [dp](#dp) (6)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (2)
+- [graphs](#graphs) (3)
 - [greedy](#greedy) (26)
 - [implementation](#implementation) (17)
 - [math](#math) (28)
@@ -31,7 +31,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
 - [strings](#strings) (4)
-- [trees](#trees) (2)
+- [trees](#trees) (3)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -130,6 +130,7 @@
 |---|---------|------------|----------|
 | 115A | [Party](https://codeforces.com/contest/115/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/115/A%20-%20Party/solution.cpp) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### dp
 
@@ -140,6 +141,7 @@
 | 1443B | [Saving the City](https://codeforces.com/contest/1443/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1443/B%20-%20Saving%20the%20City/solution.cpp) |
 | 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
 | 1566C | [MAX-MEX Cut](https://codeforces.com/contest/1566/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/C%20-%20MAX-MEX%20Cut/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### games
 
@@ -160,6 +162,7 @@
 |---|---------|------------|----------|
 | 115A | [Party](https://codeforces.com/contest/115/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/115/A%20-%20Party/solution.cpp) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### greedy
 
@@ -294,6 +297,7 @@
 |---|---------|------------|----------|
 | 115A | [Party](https://codeforces.com/contest/115/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/115/A%20-%20Party/solution.cpp) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### two pointers
 
