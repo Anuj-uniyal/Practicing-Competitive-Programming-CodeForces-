@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 21 |
+| 75 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (13)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (9)
@@ -52,6 +52,7 @@
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### binary search
 
