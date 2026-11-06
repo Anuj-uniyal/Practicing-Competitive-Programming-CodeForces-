@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 21 |
+| 72 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (10)
-- [bitmasks](#bitmasks) (5)
+- [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (13)
@@ -24,7 +24,7 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (26)
+- [greedy](#greedy) (27)
 - [implementation](#implementation) (17)
 - [math](#math) (28)
 - [number theory](#number-theory) (10)
@@ -75,6 +75,7 @@
 | 1566B | [MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/B%20-%20MIN-MEX%20Cut/solution.cpp) |
 | 1566C | [MAX-MEX Cut](https://codeforces.com/contest/1566/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/C%20-%20MAX-MEX%20Cut/solution.cpp) |
 | 1594B | [Special Numbers](https://codeforces.com/contest/1594/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1594/B%20-%20Special%20Numbers/solution.cpp) |
+| 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 
 ### brute force
 
@@ -195,6 +196,7 @@
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.cpp) |
 | 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
 | 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1968/B%20-%20Prefiquence/solution.cpp) |
+| 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### implementation
