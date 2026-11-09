@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 21 |
+| 78 | 22 |
 
 ---
 
@@ -26,6 +26,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (27)
 - [implementation](#implementation) (18)
+- [interactive](#interactive) (1)
 - [math](#math) (28)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
@@ -226,6 +227,12 @@
 | 1566D2 | [Seating Arrangements (hard version) ](https://codeforces.com/contest/1566/problem/D2) | 1600 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1566/D2%20-%20Seating%20Arrangements%20(hard%20version)%20/solution.cpp) |
 | 1946A | [Median of an Array](https://codeforces.com/contest/1946/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/1946/A%20-%20Median%20of%20an%20Array/solution.cpp) |
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
+
+### interactive
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2280B | [Secret String Patterns](https://codeforces.com/contest/2280/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2280/B%20-%20Secret%20String%20Patterns/solution.cpp) |
 
 ### math
 
