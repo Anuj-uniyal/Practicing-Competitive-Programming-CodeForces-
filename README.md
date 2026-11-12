@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 80 | 22 |
+| 81 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (16)
+- [Uncategorized](#uncategorized) (17)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (10)
@@ -57,6 +57,7 @@
 | 2284C1 | [Disgusting + GCD (Constructive Version)](https://codeforces.com/contest/2284/problem/C1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2284/C1%20-%20Disgusting%20%2B%20GCD%20(Constructive%20Version)/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
+| 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anuj-uniyal/Practicing-Competitive-Programming-CodeForces-/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
 
 ### binary search
 
