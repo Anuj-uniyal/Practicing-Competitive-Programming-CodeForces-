@@ -8,34 +8,22 @@ int main(){
         cin>>n;
         string s;
         cin>>s;
-        int ans=0;
-        for(char ch='z';ch>='b';ch--){
-            bool found=false;
- 
-            for(int i=0;i<n/2;i++){
-                if(s[i]!=s[n-1-i] &&
-                   max(s[i],s[n-1-i])==ch) {
-                    found=true;
-                    break;
-                }
-            }
-            if(found){
-                for(int i=0;i<n;i++){
-                    if(s[i]==ch)
-                        s[i]--;
-                }
-                ans++;
-                ch++;
-            }
-        }
-        bool ok=true;
+        bool need[26]={false};
         for(int i=0;i<n/2;i++){
-            if(s[i]!=s[n-1-i])
-                ok=false;
+            if(s[i]!=s[n-1-i]){
+                char small=min(s[i],s[n-1-i]);
+                char big=max(s[i],s[n-1-i]);
+                for(char ch=small+1;ch<=big;ch++){
+                    need[ch-'a']=true;
+                }
+            }
         }
-        if(ok)
-            cout<<ans<<endl;
-        else
-            cout<<-1<<endl;
+        int ans=0;
+        for(int i=0;i<26;i++){
+            if(need[i])
+                ans++;
+        }
+ 
+        cout<<ans<<endl;
     }
 }
